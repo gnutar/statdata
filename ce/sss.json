@@ -1,10 +1,10 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "SSS発表タイトル (1999-2025)",
       "tensorShape": [
-        1000,
-        50
+        1002,
+        1536
       ],
       "tensorPath": "https://raw.githubusercontent.com/gnutar/statdata/refs/heads/main/ce/sss.tsv",
       "metadataPath": "https://raw.githubusercontent.com/gnutar/statdata/refs/heads/main/ce/sss-meta.tsv"
